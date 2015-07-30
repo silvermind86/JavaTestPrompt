@@ -1,0 +1,13 @@
+# Ignorando diretorio de projeto do NetBeans
+/nbproject
+# Ignorando diretorio de projeto do PHPStorm
+/.idea
+# Ignorando arquivos do sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+
